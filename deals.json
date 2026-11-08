@@ -1,0 +1,2385 @@
+{
+ "version": 1,
+ "updated_at": "2026-11-08T04:28:04+00:00",
+ "promos": [],
+ "destinations": {
+  "alaska": {
+   "name": "Alaska",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/34fxmmmD"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/ZGKmEsfl"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/cQlDHqV0"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/dhgE6BdY",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Economybookings.com",
+     "url": "https://economybookings.tpo.lu/KyPOfH8I"
+    }
+   ]
+  },
+  "ankara": {
+   "name": "Ankara",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/6LJYJZ6i"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/JQKnRYiX"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/xemxQ4gC"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/SlqyotkW",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/ve4AdVJW"
+    }
+   ]
+  },
+  "barcelona": {
+   "name": "Barcelona",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/wGuLAjzB"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/1IoeQUXM"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/Ssw56Bz5"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/2DI6Aqso",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/sqy96e0p"
+    }
+   ]
+  },
+  "belgrade": {
+   "name": "Belgrade",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/TwikJUMK"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/mCDbdhte"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/X5cwL8BJ"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/laytHwix",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/jqwVTmGz"
+    }
+   ]
+  },
+  "berlin": {
+   "name": "Berlin",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/oz9OKM1h"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/rJPAJIvQ"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/FDybUfH4"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/Nn8n6LsT",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/ym3KIZOt"
+    }
+   ]
+  },
+  "birmingham": {
+   "name": "Birmingham",
+   "offers": [
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/s8i73ffA"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/Lv1X9hQn"
+    }
+   ]
+  },
+  "brisbane": {
+   "name": "Brisbane",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/mUUEXLh7"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/C6Yqrmy5"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/9nU5sNCU"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/sK0dEuzV",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Localrent.com",
+     "url": "https://localrent.tpo.lu/Z8I0KsGF"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/LsEaBE5f"
+    }
+   ]
+  },
+  "bucharest": {
+   "name": "Bucharest",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/ThMTcgQ6"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/SjYIUvTR"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/DGXNmV66"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/ibYOD5Xi",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/qNvKHjCi"
+    }
+   ]
+  },
+  "cairo": {
+   "name": "Cairo",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/L5kdtBSU"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/4s6RDdvi"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/jDqEx9Sr"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/BnctBoiY",
+     "price_from": 5.5,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/74zTQ41Y"
+    }
+   ]
+  },
+  "cluj-napoca": {
+   "name": "Cluj-Napoca",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/YENiq5G7"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/xOc8kBcK"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/5cnbGsb1"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/r4bgU5SQ",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Localrent.com",
+     "url": "https://localrent.tpo.lu/asHwOWac"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/SsInmRWE"
+    }
+   ]
+  },
+  "cork": {
+   "name": "Cork",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/sPwiATRS"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/SEBEYH0V"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/taaaO7XJ"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/q10asNMk",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Economybookings.com",
+     "url": "https://economybookings.tpo.lu/Uqyqg5Ox"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/49W1fRXF"
+    }
+   ]
+  },
+  "dubai": {
+   "name": "Dubai",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/jSh6KTFw"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/ROwixTtB"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/joflP1Iy"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/k83qwQxN",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/WemnLCyV"
+    }
+   ]
+  },
+  "dublin": {
+   "name": "Dublin",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/R7u4jIZ3"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/uLEd9TEp"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/Jll00WCS"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/r9nG4mSS",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/mLsWqsSO"
+    }
+   ]
+  },
+  "edinburgh": {
+   "name": "Edinburgh",
+   "offers": [
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/JoPR0pVd"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/wXQmFkZR"
+    }
+   ]
+  },
+  "guangzhou": {
+   "name": "Guangzhou",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/H75TA9ue"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/LsSqENR3"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/ZdPDeg1o"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/nSlvEXZb",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    }
+   ]
+  },
+  "hanoi": {
+   "name": "Hanoi",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/9wGOxBxn"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/tQnKGm22"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/qvGkfjyw"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/6s6n8gx4",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/BpzfnXe7"
+    }
+   ]
+  },
+  "iasi": {
+   "name": "Iași",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/OzV1m7Pm"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/3Gl4w6cH"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/jxOaqQf6"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/9pwFAcn2",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    }
+   ]
+  },
+  "kampala": {
+   "name": "Kampala",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/iAdgSyyH"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/lfjDPltn"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "GetTransfer.com",
+     "url": "https://gettransfer.tpo.lu/KgZFrQzB"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/wAG5N9Cb",
+     "price_from": 7.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    }
+   ]
+  },
+  "koh-samui": {
+   "name": "Koh Samui",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/YyyVPGHU"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/Zobwnp5o"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/UjX8BYin"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/JqryiH27",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Localrent.com",
+     "url": "https://localrent.tpo.lu/fX3hFPlZ"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/hw4LVEy0"
+    }
+   ]
+  },
+  "kolaka": {
+   "name": "Kolaka",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/ay9pqjCh"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/RzaW9AYA"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/LsPkcDP8"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/kynYkc76",
+     "price_from": 4.5,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Localrent.com",
+     "url": "https://localrent.tpo.lu/Zhc6Ul0j"
+    }
+   ]
+  },
+  "lisbon": {
+   "name": "Lisbon",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/akOgEeLR"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/n7yjyLzH"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/fhY4Rog6"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/N5MYxqCC",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/2hyCU53a"
+    }
+   ]
+  },
+  "london": {
+   "name": "London",
+   "offers": [
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/F6ZFfWfY"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/jIAl7Ta6"
+    }
+   ]
+  },
+  "madrid": {
+   "name": "Madrid",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/vEypmSbW"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/hAiOZg7s"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/8yjirh46"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/Em7X9jra",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/cZ1YgO7o"
+    }
+   ]
+  },
+  "maldives": {
+   "name": "Maldives",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/du5Hotcj"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/OAipWLv8"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "GetTransfer.com",
+     "url": "https://gettransfer.tpo.lu/bffEJVxI"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/DVO3ftv7",
+     "price_from": 40.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    }
+   ]
+  },
+  "malibu": {
+   "name": "Malibu",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/ioZXKuZv"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/A0twvL1b"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/21dn3v1S"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/KbyZj3tH",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Economybookings.com",
+     "url": "https://economybookings.tpo.lu/gNSsl4Hs"
+    }
+   ]
+  },
+  "manchester": {
+   "name": "Manchester",
+   "offers": [
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/dkmBUd1c"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/rpcw0ih2"
+    }
+   ]
+  },
+  "montreal": {
+   "name": "Montreal",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/P5gqpKN0"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/ROoJ22rT"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/6In3DcdS"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/2wNqAvcr",
+     "price_from": 7.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/zKO9so82"
+    }
+   ]
+  },
+  "mumbai": {
+   "name": "Mumbai",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/ExS5qs9v"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/SkUiRJFU"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/CTMp14K3"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/zVcNWM1I",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/ssoSq7h5"
+    }
+   ]
+  },
+  "munich": {
+   "name": "Munich",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/wKM9J7ij"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/8oh4nUpz"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/5xtcnkKU"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/YxkTt0r7",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/wfpbk8QX"
+    }
+   ]
+  },
+  "nairobi": {
+   "name": "Nairobi",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/LRzwOY5L"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/9mmvMy22"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/em7iKrhR"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/F4kU7YcH",
+     "price_from": 8.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/8KqcvQnw"
+    }
+   ]
+  },
+  "naples": {
+   "name": "Naples",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/Zu7zfnvA"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/Il2Ew2Wc"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/G2lOjrYV"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/Is3sVwjy",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/LyRYrLmb"
+    }
+   ]
+  },
+  "nepal": {
+   "name": "Nepal",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/Els8HoIS"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/ZSJoj4cC"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "GetTransfer.com",
+     "url": "https://gettransfer.tpo.lu/hN49uI4F"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/68jrolTw",
+     "price_from": 5.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    }
+   ]
+  },
+  "new-delhi": {
+   "name": "New Delhi",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/ltfRNhaQ"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/Xe3age3B"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/s6466Uwa"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/FvkRii8Y",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/hc6wPV27"
+    }
+   ]
+  },
+  "new-york": {
+   "name": "New York",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/8Uru5goi"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/VHZPFIH0"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/EGZAdASu"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/5Lx16aFp",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/LdYWByRM"
+    }
+   ]
+  },
+  "nice": {
+   "name": "Nice",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/FSkWcTPj"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/LitvDIrm"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/ijKCSB9S"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/cD6IrowB",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Localrent.com",
+     "url": "https://localrent.tpo.lu/WgXmMDrY"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/t4bhzdx1"
+    }
+   ]
+  },
+  "oradea": {
+   "name": "Oradea",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/MBzHa8h5"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/nnAy85FP"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/YCSj5Foc"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/65FTk7ML",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    }
+   ]
+  },
+  "paris": {
+   "name": "Paris",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/chKqt4jL"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/aChQnllR"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/SJQ4Bf1e"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/2t9v7u0z",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/FcdDq3oX"
+    }
+   ]
+  },
+  "perth": {
+   "name": "Perth",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/P6WNhvNb"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/FrExHluq"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/4rS8wTj1"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/EbtXw5WC",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Localrent.com",
+     "url": "https://localrent.tpo.lu/KsajKfFc"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/CrppP5kb"
+    }
+   ]
+  },
+  "rijeka": {
+   "name": "Rijeka",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/yTVhhUAi"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/ndBufBN7"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/rtZEuvKX"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/5abczeHL",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Localrent.com",
+     "url": "https://localrent.tpo.lu/UjjRDsom"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/TPCYITv2"
+    }
+   ]
+  },
+  "rio-de-janeiro": {
+   "name": "Rio de Janeiro",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/YhYBcvbi"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/SH2XBec5"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/2N059lZy"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/X8miwY9v",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/892iJAxJ"
+    }
+   ]
+  },
+  "rome": {
+   "name": "Rome",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/39UCf6QJ"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/LXV1J6aL"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/qtNId6hW"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/Pz7Jz9OC",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/zCTfswyY"
+    }
+   ]
+  },
+  "saint-tropez": {
+   "name": "Saint-Tropez",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/csCeAMCO"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/9hicyoX6"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/wQw66PlS"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/RBj0xhgY",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Localrent.com",
+     "url": "https://localrent.tpo.lu/y6NZgIhb"
+    }
+   ]
+  },
+  "sibiu": {
+   "name": "Sibiu",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/75a8ZjKY"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/ctIBOS8U"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/yAXTeH2h"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/QVE55f77",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Localrent.com",
+     "url": "https://localrent.tpo.lu/Qp1KEer7"
+    }
+   ]
+  },
+  "stockholm": {
+   "name": "Stockholm",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/lJe7wkCL"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/diddIBGO"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/DCCLdq2g"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/2OLzgEwg",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/rvPt5v2X"
+    }
+   ]
+  },
+  "stuttgart": {
+   "name": "Stuttgart",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/XhUIDE76"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/OgSBaPva"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/i30RapNw"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/BrOBEfh6",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/JmFa85ur"
+    }
+   ]
+  },
+  "sydney": {
+   "name": "Sydney",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/v2qoR5uC"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/HpGviQcQ"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/ejHv7cRs"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/llSEicSC",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/YxyInx9P"
+    }
+   ]
+  },
+  "tanzania": {
+   "name": "Tanzania",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/Dc4iaHLR"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/1hd3BBF2"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/2H68kp5i"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/arEJNks1",
+     "price_from": 4.5,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Localrent.com",
+     "url": "https://localrent.tpo.lu/ukjl6dN5"
+    }
+   ]
+  },
+  "tenerife": {
+   "name": "Tenerife",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/ACTjRNsc"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/TfdUokmQ"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/rlrLxbag"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/zdBu7MYa",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "car_hire",
+     "emoji": "🚗",
+     "label": "Car hire",
+     "brand": "Localrent.com",
+     "url": "https://localrent.tpo.lu/cT9i2djl"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/JsdJ1H1m"
+    }
+   ]
+  },
+  "tirana": {
+   "name": "Tirana",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/pkj8i5JD"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/CygZyKQf"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/cnxsFtXK"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/sr2h4Det",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/OnSDVY0I"
+    }
+   ]
+  },
+  "tokyo": {
+   "name": "Tokyo",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/dbz7hllE"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/X8r6gIwf"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/X2sU6ZnJ"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/rdOxJj3k",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/86xIDPjM"
+    }
+   ]
+  },
+  "toronto": {
+   "name": "Toronto",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/nC6pbwow"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/e1BRUAw0"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/PsbVV7em"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/ubRUHJe9",
+     "price_from": 7.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/3otlH6Jq"
+    }
+   ]
+  },
+  "valletta": {
+   "name": "Valletta",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/NOVgyH6V"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/zDDB9i7D"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/LpjuAD3A"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/PC58SHZi",
+     "price_from": 4.5,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/1H6jVIFW"
+    }
+   ]
+  },
+  "venice": {
+   "name": "Venice",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/zPVtYLAZ"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/d3YeDMwV"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/kexBDotW"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/txLRcFUg",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/k8UOV3oc"
+    }
+   ]
+  },
+  "vienna": {
+   "name": "Vienna",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/Js4Gjcoi"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/ou1uHhcm"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/0mWTxU5D"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/IcHWq8Qv",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/SSHLFGpC"
+    }
+   ]
+  },
+  "washington-dc": {
+   "name": "Washington D.C.",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/GPZ1ktpu"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Tiqets",
+     "url": "https://tiqets.tpo.lu/OBJ6f4cj"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/5CvWf5Ra"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/fllIhGYP",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/nIFeIND7"
+    }
+   ]
+  },
+  "zurich": {
+   "name": "Zurich",
+   "offers": [
+    {
+     "category": "flights",
+     "emoji": "✈️",
+     "label": "Flights from London",
+     "brand": "Aviasales",
+     "url": "https://aviasales.tpo.lu/arNIc4Bx"
+    },
+    {
+     "category": "tours_tickets",
+     "emoji": "🎟️",
+     "label": "Tours & tickets",
+     "brand": "Klook",
+     "url": "https://klook.tpo.lu/lx2P1cu4"
+    },
+    {
+     "category": "transfers",
+     "emoji": "🚕",
+     "label": "Airport transfer",
+     "brand": "Kiwitaxi",
+     "url": "https://kiwitaxi.tpo.lu/3XPkeEJW"
+    },
+    {
+     "category": "esim",
+     "emoji": "📶",
+     "label": "eSIM",
+     "brand": "Airalo",
+     "url": "https://airalo.tpo.lu/WNl7fw8K",
+     "price_from": 4.0,
+     "currency": "USD",
+     "price_as_of": "8 Nov 2026",
+     "price_source": "Airalo product feed"
+    },
+    {
+     "category": "other",
+     "emoji": "🧳",
+     "label": "Luggage storage",
+     "brand": "Radical Storage",
+     "url": "https://radicalstorage.tpo.lu/NyScE3Vd"
+    }
+   ]
+  }
+ }
+}
