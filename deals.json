@@ -1,7 +1,19 @@
 {
  "version": 1,
- "updated_at": "2026-11-08T04:28:04+00:00",
- "promos": [],
+ "updated_at": "2026-11-08T04:42:46+00:00",
+ "promos": [
+  {
+   "id": 2,
+   "brand": "Kiwitaxi",
+   "offer": "5% off bookings on Kiwitaxi",
+   "code": "TPO5",
+   "expires": "2026-12-31",
+   "expires_text": "31 Dec 2026",
+   "expires_at": "2027-01-01T00:00:00+00:00",
+   "terms": null,
+   "url": "https://kiwitaxi.tpo.lu/iZ1PLo8s"
+  }
+ ],
  "destinations": {
   "alaska": {
    "name": "Alaska",
